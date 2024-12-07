@@ -51,5 +51,5 @@ To use the app like a native mobile application:
 Developed with passion by **Sayan Mondal**.  
 Feel free to connect or follow me for more projects:
 
-- [Linkedin - Sayan Mondal](https://instagram.com/analystsayan)
+- [Linkedin - Sayan Mondal](https://linkedin.com/in/analystsayan)
 - [Github - Sayan Mondal](https://github.com/analystsayan)
